@@ -9,7 +9,7 @@
   "dependencies": {
     "@cutii/react-native-tag-input": "0.0.18",
     "react": "16.2.0",
-    "react-native": "0.51.0",
+    "react-native": "0.70.2",
     "react-native-cloudinary": "^1.0.1",
     "react-native-drawer": "^2.5.0",
     "react-native-elements": "^0.19.1",
